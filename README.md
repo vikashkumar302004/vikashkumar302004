@@ -153,15 +153,7 @@ Systems-focused exploration of database engineering, storage concepts, and low-l
 
 </div>
 
-## 05 — GitHub trophies
-
-<div align="center">
-
-[![GitHub trophies](https://trophy.ryglcloud.net/?username=vikashkumar302004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 06 — GitHub pulse
+## 05 — GitHub pulse
 
 <div align="center">
 
