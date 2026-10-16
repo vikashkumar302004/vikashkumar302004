@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125" role="img" aria-label="Build with purpose, ship with care">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#080b17"/><stop offset=".5" stop-color="#17143b"/><stop offset="1" stop-color="#082f49"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="125" rx="16" fill="url(#bg)"/>
+  <rect x="310" y="35" width="580" height="2" fill="url(#line)"/>
+  <text x="600" y="76" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17" letter-spacing="2.5" fill="#c4b5fd">BUILD WITH PURPOSE · SHIP WITH CARE</text>
+  <circle cx="600" cy="99" r="3" fill="#22d3ee"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+</svg>
