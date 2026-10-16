@@ -1,19 +1,21 @@
 <div align="center">
 
-# Vikash Kumar
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:0b1020,50:4c1d95,100:0e7490&height=180&section=header&text=Vikash%20Kumar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Building%20intelligent%20products%20with%20purpose&descAlignY=70&descSize=16)
 
-### Backend & GenAI Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Backend+%26+GenAI+Engineer;Building+AI-Powered+Products;Designing+Scalable+Systems;Turning+Ideas+Into+Production)](https://git.io/typing-svg)
 
-I build reliable backend systems and AI-powered products that solve real problems.
+**Reliable backends · Intelligent AI · Thoughtful products**
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/vikashkumar302004)
-[![Profile views](https://komarev.com/ghpvc/?username=vikashkumar302004&style=flat-square&color=6e40c9)](https://github.com/vikashkumar302004)
+<br />
+
+[![GitHub](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashkumar302004?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=vikashkumar302004&label=Profile+views&style=for-the-badge&color=6e40c9)](https://github.com/vikashkumar302004)
 
 </div>
 
 ---
 
-### About
+## 👋 About me
 
 I'm focused on backend engineering, generative AI, and product development. I like turning difficult technical ideas into fast, simple experiences—and learning how systems work by building them from the ground up.
 
@@ -21,7 +23,7 @@ I'm focused on backend engineering, generative AI, and product development. I li
 - 🧠 Learning advanced system design, DSA, and scalable AI architecture
 - ⚡ Interested in agents, retrieval systems, database internals, and great UX
 
-### Selected projects
+## 🚀 Selected projects
 
 | Project | What it does | Stack |
 |:---|:---|:---|
@@ -30,7 +32,7 @@ I'm focused on backend engineering, generative AI, and product development. I li
 | **[Sovereign AI](https://github.com/vikashkumar302004/SOVERIGN-AI)** | Practical experiments in intelligent workflows and AI product experiences | TypeScript · GenAI |
 | **[PlexusDB](https://github.com/vikashkumar302004/PlexusDB-)** | Systems and database-engineering experiments built in modern C++ | C++ · Database internals |
 
-### Tech stack
+## 🧰 Tech stack
 
 <div align="center">
 
@@ -38,7 +40,7 @@ I'm focused on backend engineering, generative AI, and product development. I li
 
 </div>
 
-### Contribution journey
+## 🐍 Contribution journey
 
 <div align="center">
 
@@ -46,7 +48,7 @@ I'm focused on backend engineering, generative AI, and product development. I li
 
 </div>
 
-### GitHub overview
+## 📊 GitHub overview
 
 <div align="center">
 
