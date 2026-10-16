@@ -2,10 +2,20 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=230&section=header&text=Vikash%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20products%20that%20make%20complex%20ideas%20feel%20simple&descAlignY=58&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Interactive+Product+Builder;DSA+%26+Systems+Explorer;Turning+ambitious+ideas+into+real+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&lines=Backend+%26+GenAI+Engineer;Building+Intelligent+Products;Designing+Scalable+Systems;Turning+Ideas+into+Production)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vikashkumar302004&style=for-the-badge&color=7c3aed)](https://github.com/vikashkumar302004)
 [![Followers](https://img.shields.io/github/followers/vikashkumar302004?style=for-the-badge&logo=github&label=Followers&color=0891b2)](https://github.com/vikashkumar302004?tab=followers)
+
+</div>
+
+<div align="center">
+
+### Backend & GenAI Engineer
+
+Building scalable backends, intelligent AI experiences, and products that feel effortless to use.
+
+![Animated contribution snake](./assets/contribution-snake.svg)
 
 </div>
 
@@ -13,8 +23,8 @@
 
 ```typescript
 const vikash = {
-  role: "Full-Stack Developer",
-  focus: ["Product Engineering", "Interactive Systems", "AI"],
+  role: "Backend & GenAI Engineer",
+  focus: ["Backend Systems", "Generative AI", "Product Engineering"],
   currentlyBuilding: ["Arcitype", "Keetcode", "Sovereign AI"],
   learning: ["System Design", "Advanced DSA", "Scalable Architecture"],
   philosophy: "Build it useful. Make it beautiful. Keep improving it."
@@ -99,18 +109,6 @@ Systems-focused experimentation and database engineering in modern C++.
 ![GitHub Streak](https://streak-stats.demolab.com?user=vikashkumar302004&theme=tokyonight&hide_border=true&border_radius=12)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar302004&theme=tokyo-night&hide_border=true&radius=12&area=true)
-
-</div>
-
-## 🐍 Watch my contributions come alive
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikashkumar302004/vikashkumar302004/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikashkumar302004/vikashkumar302004/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation eating Vikash's GitHub contributions" src="https://raw.githubusercontent.com/vikashkumar302004/vikashkumar302004/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
