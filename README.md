@@ -13,7 +13,7 @@
 
 </div>
 
-## `01` About me
+## 01 — About me
 
 I'm a **Backend & GenAI Engineer** interested in the space where robust systems meet intelligent products. I enjoy understanding difficult problems deeply, designing the right architecture, and turning the result into an experience that feels simple.
 
@@ -26,7 +26,7 @@ const vikash = {
 };
 ```
 
-## `02` Selected work
+## 02 — Selected work
 
 <table>
 <tr>
@@ -77,62 +77,42 @@ Systems-focused exploration of database engineering, storage concepts, and low-l
 </tr>
 </table>
 
-## `03` Engineering toolkit
+## 03 — Engineering toolkit
 
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
+<div align="center">
 
-**Languages**
+### Languages
 
-<br />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br />
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)<br />
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br />
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### Frontend & interface
 
-</td>
-<td width="25%" align="center" valign="top">
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Frontend**
+### Backend & APIs
 
-<br />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-4F46E5?style=for-the-badge)
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs)<br />
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)<br />
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)<br />
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+### Data, cloud & developer tools
 
-</td>
-<td width="25%" align="center" valign="top">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Backend**
+</div>
 
-<br />
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br />
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express)<br />
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)<br />
-![REST](https://img.shields.io/badge/REST_APIs-4F46E5?style=flat-square)
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Data & DevOps**
-
-<br />
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)<br />
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)<br />
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br />
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-## `04` Generative AI lab
+## 04 — Generative AI lab
 
 <div align="center">
 
@@ -167,7 +147,7 @@ Systems-focused exploration of database engineering, storage concepts, and low-l
 
 </div>
 
-## `05` GitHub pulse
+## 05 — GitHub pulse
 
 <div align="center">
 
@@ -176,7 +156,7 @@ Systems-focused exploration of database engineering, storage concepts, and low-l
 
 <br /><br />
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar302004&bg_color=0d1117&color=94a3b8&line=8b5cf6&point=22d3ee&area=true&area_color=312e81&hide_border=true&radius=10)
+<img src="./assets/activity-graph.svg" width="100%" alt="Vikash's contribution activity over the last 12 months" />
 
 </div>
 
