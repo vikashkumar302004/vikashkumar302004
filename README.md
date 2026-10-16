@@ -127,6 +127,8 @@ Systems-focused exploration of database engineering, storage concepts, and low-l
 #### Orchestration & agents
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4338CA?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-0F766E?style=flat-square)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6D28D9?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-E11D48?style=flat-square)
 ![AutoGen](https://img.shields.io/badge/AutoGen-2563EB?style=flat-square)
@@ -142,12 +144,24 @@ Systems-focused exploration of database engineering, storage concepts, and low-l
 ![Pinecone](https://img.shields.io/badge/Pinecone-0EA5E9?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0284C7?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-00A98F?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Fine Tuning](https://img.shields.io/badge/Fine_Tuning-9333EA?style=flat-square)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-475569?style=flat-square)
 
 </div>
 
-## 05 — GitHub pulse
+## 05 — GitHub trophies
+
+<div align="center">
+
+[![GitHub trophies](https://trophy.ryglcloud.net/?username=vikashkumar302004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 06 — GitHub pulse
 
 <div align="center">
 
